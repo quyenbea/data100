@@ -1,4 +1,4 @@
-# Data100: Wicked Problems
+# Wicked Problems
 
 ## Introduction
 
