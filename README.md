@@ -6,6 +6,7 @@ Hello! My name is Quyen Tran and I'm currently a freshman at William & Mary. I'm
 I'm from Springfield, Virginia and have lived here my whole life. I love to travel, bake, and binge Netflix.
 
 ![](me.png)
+## Informal Responses
 
 ## Projects
 [Getting Started With R](gettingstarted.md)
