@@ -7,6 +7,7 @@ I'm from Springfield, Virginia and have lived here my whole life. I love to trav
 
 ![](me.png)
 ## Informal Responses
+[Reflection 1](reflection1.md)
 
 ## Projects
 [Getting Started With R](gettingstarted.md)
