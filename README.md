@@ -10,4 +10,6 @@ I'm from Springfield, Virginia and have lived here my whole life. I love to trav
 [Reflection 1](reflection1.md)
 
 ## Projects
-[Getting Started With R](gettingstarted.md)
+[Project 0 - Getting Started With R](gettingstarted.md)
+
+[Project 1 - Projecting, Plotting and Labelling Administrative Subdivisions](project1.md)
