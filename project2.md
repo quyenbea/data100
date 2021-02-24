@@ -9,3 +9,5 @@ For stretch goal 1, I plotted Slovenia's municipalities. They are also color-cod
 ![](svn_pop20_adm2.png)
 
 For stretch goal 2, I plotted Slovenia's counties as well as its municipalities. Its municipalities are color-coded based on the log of their population counts.
+
+![](svn_pop20_adm2+1.png)
