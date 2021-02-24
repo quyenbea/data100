@@ -4,6 +4,8 @@ In this project, I used ggplot to map Slovenia and its counties. The counties ar
 
 ![](svn_pop20_adm1.png)
 
-For stretch goal 1, I plotted Slovenia's municipalities. They are also color-coded based on their population counts.
+For stretch goal 1, I plotted Slovenia's municipalities. They are also color-coded based on the log of their population counts.
 
 ![](svn_pop20_adm2.png)
+
+For stretch goal 2, I plotted Slovenia's counties as well as its municipalities. Its municipalities are color-coded based on the log of their population counts.
