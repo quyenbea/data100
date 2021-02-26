@@ -12,6 +12,6 @@ For stretch goal 2, I plotted Slovenia's counties as well as its municipalities.
 
 ![](svn_pop20_adm2+1.png)
 
-For stretch goal 3, I created a 3D plot of Slovenia's municipalities. They are color-coded by the log of their density population values.
+For stretch goal 3, I created a 3D plot of Slovenia's municipalities. They are color-coded by the log of their population counts.
 
 ![](svn_mov.gif)
