@@ -1,6 +1,6 @@
 ## Extracting Populations from a Raster and Aggregating to each Unit
 
-For this project, I used ggplot to map Slovenia and its counties along with a bar graph that shows each county according to their population density. The counties are color-coded based on their population counts while the bar graph organizes Slovenia's counties in order of decreasing population density.
+For this project, I used ggplot to map Slovenia and its counties along with a bar graph that shows each county according to its population density. The counties are color-coded based on their population counts while the bar graph organizes Slovenia's counties in order of decreasing population density.
 
 ![](slovenia.png)
 
