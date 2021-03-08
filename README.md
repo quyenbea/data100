@@ -9,6 +9,8 @@ I'm from Springfield, Virginia and have lived here my whole life. I love to trav
 ## Informal Responses
 [Reflection 1](reflection1.md)
 
+[Reflection 2](reflection2.md)
+
 ## Projects
 [Project 0 - Getting Started With R](gettingstarted.md)
 
