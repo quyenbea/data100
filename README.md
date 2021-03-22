@@ -17,3 +17,5 @@ I'm from Springfield, Virginia and have lived here my whole life. I love to trav
 [Project 1 - Projecting, Plotting and Labelling Administrative Subdivisions](project1.md)
 
 [Project 2 - Extracting Populations from a Raster and Aggregating to each Unit](project2.md)
+
+[Project 3 - Spatial Population Modeling](project3.md)
