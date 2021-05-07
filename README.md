@@ -15,6 +15,8 @@ I'm from Springfield, Virginia and have lived here my whole life. I love to trav
 
 [Reflection 4](reflection4.md)
 
+[Reflection 5](reflection5.md)
+
 ## Projects
 [Project 0 - Getting Started With R](gettingstarted.md)
 
